@@ -1,0 +1,1 @@
+![[potencjal_elektrokinetyczny.png]]
