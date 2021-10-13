@@ -3,5 +3,6 @@
   "foldHeading": true,
   "foldIndent": true,
   "showLineNumber": false,
-  "spellcheck": false
+  "spellcheck": false,
+  "attachmentFolderPath": "./img"
 }

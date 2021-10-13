@@ -7,6 +7,6 @@ Jest tam większa koncentracja ładunków.
 - Polaryzacja wsteczna
 - Polaryzacja w kierunku przewodzenia
 
-#### Złącze **metal-[[półprzewodnik]]**
+#### Złącze **metal-[[Półprzewodnik|półprzewodnik]]**
 ![[metal-polprzewodnik.png]]
 Inaczej zwane ***Diodą Schottkyego***
