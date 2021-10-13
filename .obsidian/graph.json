@@ -13,18 +13,25 @@
         "a": 1,
         "rgb": 14701138
       }
+    },
+    {
+      "query": "path:\"Algorytmy i struktury danych\"",
+      "color": {
+        "a": 1,
+        "rgb": 5284060
+      }
     }
   ],
   "collapse-display": true,
   "showArrow": true,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "textFadeMultiplier": -1,
+  "nodeSizeMultiplier": 0.994662921348315,
+  "lineSizeMultiplier": 1.325,
   "collapse-forces": true,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.6989606412938238,
+  "scale": 0.4084433249421982,
   "close": false
 }
