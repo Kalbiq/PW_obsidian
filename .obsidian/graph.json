@@ -20,6 +20,20 @@
         "a": 1,
         "rgb": 5284060
       }
+    },
+    {
+      "query": "path:\"Programowanie obiektowe\"",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:\"Reprezentacja danych\"",
+      "color": {
+        "a": 1,
+        "rgb": 9130720
+      }
     }
   ],
   "collapse-display": true,
@@ -31,7 +45,7 @@
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.34147441013882746,
+  "linkDistance": 183,
+  "scale": 0.23867717269606442,
   "close": true
 }
