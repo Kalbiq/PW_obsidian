@@ -9,3 +9,6 @@
 ### Wzory
 1. [[Napięcie Hala]]
 2. [[Potencjał elektrokinetyczny]]
+
+### Bramki
+1. [[Bramka trójstanowa]]
