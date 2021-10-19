@@ -47,3 +47,26 @@ Używa się do tego *Binary Search Tree* w, którym zachodzi relacja `left < par
 
 ### Dodawanie elementów
 Trzeba używając tego drzewa poszukać miejsca dla nowego elementu.
+
+### Liczenie idexów
+Rodzic, Lewy, Prawy, Dziecko
+
+R = 1
+L = R * 2 + 1
+P = R * 2 + 2
+
+R = (D - 1)/2
+
+## Kopiec maksymalny
+```
+			6
+		   /  \
+		  6    5
+		 / \   / \
+		4   5   
+```
+
+Wstawiamy na pierwsze wolne miejsce
+
+!!Rysunki na kartkach (kształt kopca)
+
