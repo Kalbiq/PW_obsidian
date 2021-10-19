@@ -3,6 +3,7 @@
 2. [[Dane rastrowe]]
 3. [[Dane wektorowe]]
 4. [[Dane multimedialne]]
+5. [[Miary danych]]
 
 ## Dziedziny pokrewne
 1. [[Algorytmy]]

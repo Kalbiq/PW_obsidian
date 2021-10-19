@@ -7,3 +7,6 @@
 	- znajdowanie nieprawidłowości
 	- wybór podzbiorów do dalszego badania
 - [[Uczenie maszynowe]]
+
+### Narzędzia
+- 
