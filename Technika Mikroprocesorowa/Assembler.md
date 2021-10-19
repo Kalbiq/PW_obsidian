@@ -1,0 +1,19 @@
+### Opis
+- język programowania ale też kompilator
+- jest specyficzny dla każdego procesora
+- język składa się z:
+	- mnemoników - rozkazy
+		- transferu *(np. mov)*
+		- arytmetyczne *(np. add)*
+		- operacji logicznych *(np. and)*
+		- sterujące programem
+			- bezwarunkowe *(np. jmp)*
+			- warunkowe *(np. jge)*
+		- manipulacji bitowych *(np. bis)*
+	- operandy - zmienne
+	- adresowanie - sposoby określania i wskazywania operandów
+		- natychmiastowe *\#45h*
+		- bezpośrednie *&P1DIR*
+		- rejestrowe *R10*
+		- pośrednie *@R10*
+		- ...

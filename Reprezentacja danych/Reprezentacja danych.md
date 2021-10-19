@@ -4,6 +4,7 @@
 3. [[Dane wektorowe]]
 4. [[Dane multimedialne]]
 5. [[Miary danych]]
+6. [[Atrybuty]]
 
 ## Dziedziny pokrewne
 1. [[Algorytmy]]
