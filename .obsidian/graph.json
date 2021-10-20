@@ -41,6 +41,13 @@
         "a": 1,
         "rgb": 13405732
       }
+    },
+    {
+      "query": "path:\"Technika cyfrowa\"",
+      "color": {
+        "a": 1,
+        "rgb": 14440222
+      }
     }
   ],
   "collapse-display": true,
