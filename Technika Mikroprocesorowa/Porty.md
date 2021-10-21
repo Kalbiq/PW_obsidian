@@ -21,3 +21,7 @@ D - przerzutniki typu D
 
 ### Przykład programu na port
 ![[program_na_port.png]]
+Program ten okupuje cały czas procesora co uniemożliwia jego pracę. Działa on też za szybko przez co miganie diód nie będzie zauważalne.
+
+![[port_na_program_popr.png]]
+Wersja poprawiona wprowadza opóźnienie. Nie rozwiązuje ona nadal okupacji procesora.
