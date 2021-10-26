@@ -4,5 +4,6 @@
   "foldIndent": true,
   "showLineNumber": false,
   "spellcheck": false,
-  "attachmentFolderPath": "./img"
+  "attachmentFolderPath": "./img",
+  "newFileLocation": "current"
 }
