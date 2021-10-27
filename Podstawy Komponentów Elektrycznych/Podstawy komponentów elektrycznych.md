@@ -6,6 +6,7 @@
 4. [[Źródła prądu]]
 5. [[Diody]]
 6. [[Elementy pasywne]]
+7. [[Elementy półprzewodnikowe]]
 
 ### Wzory
 1. [[Napięcie Hala]]

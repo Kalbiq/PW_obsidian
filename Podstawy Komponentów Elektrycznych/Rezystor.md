@@ -28,3 +28,6 @@ $$G=\frac{1}{R}$$
 
 Wzór na napięcie
 $$U_R=I_R*R$$
+
+### Rezystor półprzewodnikowy
+![[rez_polprzew.png]]
