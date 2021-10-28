@@ -8,6 +8,7 @@
 5. [[Pisanie programów]]
 6. [[Porty]]
 7. [[Assembler]]
+8. [[Przerwania]]
 
 ## Ciekawostki
 - bajt niekoniecznie ma 8 bitów, bajtem okresla się też wielkość słowa na którym pracuje urządzenie np. 4 bity
