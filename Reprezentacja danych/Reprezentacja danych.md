@@ -12,3 +12,8 @@
 3. Matematyka i statystyka
 4. Informatyka ogólnie rozumiana
 5. [[Eksploracja danych]] (data mining)
+
+## Wizualizacja danych
+1. [[Histogram]]
+2. [[Wykresy punktowe]]
+3. [[Wykresy pudełkowe]]
