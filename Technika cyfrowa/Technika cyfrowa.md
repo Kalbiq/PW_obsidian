@@ -8,3 +8,5 @@ Wszystkie prezentacje są dostępne na teams.
 5. [[Metoda Quine'a]]
 	1. [[Metoda Quine'a-McCluskeya]]
 6. [[Multiplekser]]
+7. [[Stycznik]] / przełącznik
+8. [[Zjawisko Hazardu]]

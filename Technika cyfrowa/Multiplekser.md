@@ -26,3 +26,18 @@
 ![[multiplekser_przyklad_3_1.png]]
 ![[multiplekser_przyklad_3_2.png]]
 ![[multiplekser_przyklad_3_3.png]]
+
+#### 4
+![[multiplekser_przyklad_4.png]]
+
+#### 5
+![[multiplekser_przyklad_5_1.png]]
+![[multiplekser_przyklad_5_2.png]]
+
+#### 6
+![[multiplekser_przyklad_6_1.png]]
+![[multiplekser_przyklad_6_2.png]]
+![[multiplekser_przyklad_6_3.png]]
+![[multiplekser_przyklad_6_4.png]]
+![[multiplekser_przyklad_6_5.png]]
+![[multiplekser_przyklad_6_6.png]]
