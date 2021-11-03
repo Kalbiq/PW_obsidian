@@ -8,6 +8,23 @@
 6. [[Magnetorezystor]]
 7. [[Hallotron]]
 8. [[Rezonator piezoelektrzyczny]]
+9. [[Metal-izolator-półprzewodnik]]
 
 #### Elementy o efekcie powierzchniowym
-1. [[Tranzystor z izolowaną bramką]]
+1. [[Tranzystor MOSFET]]
+
+---
+
+### Elementy złączowe
+#### Elementy jednozłączowe
+Stosuje się w nich:
+- [[Złącze półprzewodnikowe p - n]]
+	- przy różnych domieszkach uzyskujemy:
+		- złącza skokowe
+		- złącza liniowe
+- [[Złącze metal-półprzewodnik m - s]]
+	- inaczej *Złącze Schottky'ego*
+
+![[Pasted image 20211103111119.png]]
+a - skokowe
+b - liniowe
