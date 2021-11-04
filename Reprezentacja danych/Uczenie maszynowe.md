@@ -16,9 +16,4 @@
 - klasyfikacja - na wyjściu jest kategoria
 - regresja - na wyjściu wartość liczbowa
 
-#### Uczenie nienadzorowane
-- nie znamy wyjścia
-- odkrywamy strukturę danych i zależności
-- grupowanie danych
-- detekcja anlomalii
-- odkrywanie wzorców
+[[Uczenie nienadzorowane]]
