@@ -10,10 +10,5 @@
  - poziom abstrakcji
 
 ### Rodzaje
-#### Uczenie nadzorowane
-- znamy wyjście
-- modele zależności wejście - wyjście
-- klasyfikacja - na wyjściu jest kategoria
-- regresja - na wyjściu wartość liczbowa
-
-[[Uczenie nienadzorowane]]
+- [[Uczenie nienadzorowane]]
+- [[Uczenie nadzorowane]]
