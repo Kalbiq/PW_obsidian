@@ -1,0 +1,7 @@
+1. [[Algorytmy]]
+2. [[Fizyka ogólna]]
+3. [[Podstawy komponentów elektrycznych]]
+4. [[Programowanie obiektowe]]
+5. [[Reprezentacja danych]]
+6. [[Technika cyfrowa]]
+7. [[Technika mikroprocesorowa]]
