@@ -1,5 +1,8 @@
+## Semestr 1
+1. [[Fizyka ogólna]]
+
+## Semestr 3
 1. [[Algorytmy]]
-2. [[Fizyka ogólna]]
 3. [[Podstawy komponentów elektrycznych]]
 4. [[Programowanie obiektowe]]
 5. [[Reprezentacja danych]]

@@ -28,3 +28,13 @@ Stosuje się w nich:
 ![[Pasted image 20211103111119.png]]
 a - skokowe
 b - liniowe
+
+##### Diody [[Diody]]
+![[Pasted image 20211117105444.png]]
+
+##### Model Shockleya
+![[Pasted image 20211117105841.png]]
+![[Pasted image 20211117110808.png]]
+
+##### Model dynamiczny diody
+![[Pasted image 20211117111251.png]]
