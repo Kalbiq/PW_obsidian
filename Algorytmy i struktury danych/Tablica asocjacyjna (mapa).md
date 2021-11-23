@@ -27,3 +27,15 @@ Drzewo 2 - 3 słowo "Kapelusz"
 
 #todo Na kartce do przepisania / zdjęcie
 Drzewo czerowono - czarne (modyfikacja lewostronnie czerwona)
+
+##### Usuwanie elementu największego
+- Wariant I:
+	- potomkowie korzenia czarni
+	- schodzimy do największej wartości zamieniając kolory tak aby iść zawsze po czerwonym
+	- usuwamy
+	- naprawiamy niezgodności jeśli trzeba
+- Wariant II:
+	- prawy potomek czarny, lewy potomek czerwony
+	- robimy rotację w prawo na korzeniu
+	- potem tak jak w wariancie I
+	- robimy rotację w lewo na korzeniu

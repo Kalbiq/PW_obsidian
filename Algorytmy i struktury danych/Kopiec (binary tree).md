@@ -5,6 +5,25 @@
 	- kazdy węzeł ma relacje parent - child
 	- ma 2 dzieci (np. right, left)
 
+### Trawersacja
+Przejście po wszystkich wierzchołkach drzewa.
+
+- pre-order:
+	1. wykonujemy operację np. jakiś print
+	2. wywołujemy pre-order od lewego dziecka
+	3. wywołujemy pre-order od prawego dziecka
+	- kolejność wykonania (drzewo liter alfabetu A - M): H D B A C F E G L J I K M
+- in-order:
+	1. wywołujemy in-order od lewego dziecka
+	2. wykonujemy operację
+	3. wywołujemy in-order od prawego dziecka
+	- kolejność wykonania: A B C D E F ...
+- post-order:
+	1. wywołujemy in-order od lewego dziecka
+	2. wywołujemy in-order od prawego dziecka
+	3. wykonujemy operację
+	- kolejność: A C B E G F D I K J M L H
+
 ## Implementacja
 ##### Java:
 ```Java
