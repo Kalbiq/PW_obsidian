@@ -38,3 +38,16 @@ b - liniowe
 
 ##### Model dynamiczny diody
 ![[Pasted image 20211117111251.png]]
+
+#### Elementy wielozłączowe
+##### JFET - tranzystor unipolarny
+![[Pasted image 20211124103257.png]]
+![[Pasted image 20211124104215.png]]
+![[Pasted image 20211124105126.png]]
+![[Pasted image 20211124105517.png]]
+
+##### BJT - tranzystor warstwowy bipolarny
+![[Pasted image 20211124105928.png]]
+![[Pasted image 20211124110347.png]]
+![[Pasted image 20211124110838.png]]
+![[Pasted image 20211124112003.png]]
