@@ -10,3 +10,5 @@ Wszystkie prezentacje są dostępne na teams.
 6. [[Multiplekser]]
 7. [[Stycznik]] / przełącznik
 8. [[Zjawisko Hazardu]]
+9. [[Układy sekwencyjne]]
+	1. [[Przerzutnik]]
