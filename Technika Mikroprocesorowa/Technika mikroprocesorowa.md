@@ -1,6 +1,8 @@
 ## Spis treści
 1. [[Procesor]]
 	1. [[Cykl maszynowy]]
+	2. [[Inicjalizacja]]
+	3. [[MSP430]]
 2. [[Mikrokontroler]]
 	1. [[Dekoder pamięci]]
 3. [[Pamięć stała]]
@@ -10,6 +12,7 @@
 7. [[Assembler]]
 8. [[Przerwania]]
 9. [[Timery]]
+10. [[Układy strażnicze]]
 
 ## Ciekawostki
 - bajt niekoniecznie ma 8 bitów, bajtem okresla się też wielkość słowa na którym pracuje urządzenie np. 4 bity

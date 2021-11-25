@@ -27,5 +27,11 @@
 ![[Pasted image 20211118124044.png]]
 
 ### Watchdog Timer
+- zabezpiecza system przed nieprawidłowym działaniem programu, program powinien wyzerować timer zanim się przepełni
+- po przepełnieniu resetuje procesor
+- uruchomienie i wyłączenie watchdoga musi być intencjonalne
+- w trakcie działania może być wyzerowany
+- timer ustawia flagę po dokonaniu resetu procesora
+
 ![[Pasted image 20211118132507.png]]
 ![[Pasted image 20211118133736.png]]

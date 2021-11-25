@@ -14,3 +14,6 @@
 
 ### Bramki
 1. [[Bramka trójstanowa]]
+
+### Przetworniki
+1. [[Przetwornik DAC]]
