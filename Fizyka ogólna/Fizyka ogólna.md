@@ -10,3 +10,5 @@
 9. [[Ukałd współrzędnych]]
 10. [[Układy odniesienia]]
 11. [[Opis ruchu]]
+12. [[Transformacja Galileusza]]
+13. [[Dynamika]]

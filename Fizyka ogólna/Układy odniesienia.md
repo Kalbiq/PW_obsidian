@@ -6,3 +6,7 @@
 #### Nie inercjalne
 - układ który porusza się ruchem niejednostajnym względem jakiegokolwiek układu inercjalnego
 
+#### Przykład
+![[Pasted image 20211130165451.png]]
+A - nieinercjalny
+B - inercjalny
