@@ -12,3 +12,5 @@ Wszystkie prezentacje są dostępne na teams.
 8. [[Zjawisko Hazardu]]
 9. [[Układy sekwencyjne]]
 	1. [[Przerzutnik]]
+	2. [[Automaty]]
+10. [[Mikrowyłączniki]]
