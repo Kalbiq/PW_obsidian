@@ -40,3 +40,32 @@
 	![[Pasted image 20211130174236.png]]
 1. Energia
 2. Moment Ruchu
+
+### Druga zasada dynamiki Newtona
+#### Siła dla obiektów ze zmienną masą
+- np. rakieta spalająca paliwo
+- druga zasada dynamiki Newtona
+
+![[Pasted image 20211207162538.png]]
+- $\overrightarrow{W}$ - prędkość wylotowa gazów
+
+##### Równanie Miersceskiego
+![[Pasted image 20211207162613.png]]
+
+##### Równanie Ciołkowskiego
+![[Pasted image 20211207162940.png]]
+
+#### Masa zależna od prędkości
+- druga zasada dynamiki Newtona
+
+![[Pasted image 20211207163223.png]]
+![[Pasted image 20211207163254.png]]
+![[Pasted image 20211207163341.png]]
+
+### Trzecia zasada dynamiki newtona
+- Newtonowskie
+	- stosujemy 3 zasadę dynamiki
+	- V << C
+- Nienewtonowskie
+	- mechanika relatywistyczna
+	- V ~ C

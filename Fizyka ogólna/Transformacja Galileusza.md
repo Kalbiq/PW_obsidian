@@ -14,6 +14,7 @@
 #### Przyśpieszenie
 ![[Pasted image 20211130163755.png]]
 ![[Pasted image 20211130163914.png]]
+![[Pasted image 20211207164045.png]]
 
 ### Układ inercjalny
 ![[Pasted image 20211130164231.png]]
