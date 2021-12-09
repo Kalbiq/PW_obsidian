@@ -3,8 +3,9 @@
 2. [[Dane rastrowe]]
 3. [[Dane wektorowe]]
 4. [[Dane multimedialne]]
-5. [[Miary danych]]
-6. [[Atrybuty]]
+5. [[Dane Tekstowe]]
+6. [[Miary danych]]
+7. [[Atrybuty]]
 
 ## Dziedziny pokrewne
 1. [[Algorytmy]]
