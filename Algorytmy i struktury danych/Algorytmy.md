@@ -6,3 +6,4 @@
 5. [[Algorytm zachłanny]]
 6. [[Drzewo Huffmana]] / Kompresja
 7. [[Programowanie dynamiczne]]
+8. [[Minimalne drzewo rozpinające]]
