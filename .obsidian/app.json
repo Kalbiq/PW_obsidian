@@ -5,5 +5,7 @@
   "showLineNumber": false,
   "spellcheck": false,
   "attachmentFolderPath": "./img",
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "legacyEditor": false,
+  "livePreview": true
 }

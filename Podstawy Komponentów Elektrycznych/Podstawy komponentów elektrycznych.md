@@ -18,5 +18,6 @@
 ### Przetworniki
 1. [[Przetwornik DAC]]
 
-### Inne
+### Wzmacniacze
 1. [[Jednostopniowy wzmacniacz tranzystorowy]]
+2. [[Wzmacniacz operacyjny]]
