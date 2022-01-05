@@ -21,3 +21,6 @@
 ### Wzmacniacze
 1. [[Jednostopniowy wzmacniacz tranzystorowy]]
 2. [[Wzmacniacz operacyjny]]
+
+### Generatory
+1. [[Generatory]]
