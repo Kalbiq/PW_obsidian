@@ -2,6 +2,17 @@
 1. [[Moedl oka zredukowanego]] / Listinga
 2. [[Model Gullstranda - Ensleya]]
 
+### Ważnie rzeczy
+1. [[Równania Maxwella]]
+2. [[Optyka Fotometryczna]]
+3. [[Źródła światła]]
+4. [[Zjawiska związane ze światłem]]
+5. [[Rodzaje soczewek]]
+6. [[Fala płaska]]
+7. [[Droga Światła]]
+8. [[Interferometria]]
+9. [[Hologram klasyczny]]
+
 ### Parametry
 ![[Pasted image 20220104164928.png]]
 
