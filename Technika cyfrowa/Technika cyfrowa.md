@@ -14,3 +14,6 @@ Wszystkie prezentacje są dostępne na teams.
 	1. [[Przerzutnik]]
 	2. [[Automaty]]
 10. [[Mikrowyłączniki]]
+12. [[Synteza strukturalna]]
+13. [[Klawiatura matrycowa X - Y]]
+14. [[Wyświetlacz lcd]]
