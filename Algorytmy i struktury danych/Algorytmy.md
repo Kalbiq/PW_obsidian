@@ -7,3 +7,4 @@
 6. [[Drzewo Huffmana]] / Kompresja
 7. [[Programowanie dynamiczne]]
 8. [[Minimalne drzewo rozpinające]]
+9. [[Deterministyczny automat skończony]]
