@@ -15,6 +15,7 @@
 9. [[Timery]]
 10. [[Układy strażnicze]]
 11. [[Interfejsy komunikacyjne]]
+12. [[JTAG]]
 
 ## Ciekawostki
 - bajt niekoniecznie ma 8 bitów, bajtem okresla się też wielkość słowa na którym pracuje urządzenie np. 4 bity
