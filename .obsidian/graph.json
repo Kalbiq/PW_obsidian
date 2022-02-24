@@ -48,9 +48,16 @@
         "a": 1,
         "rgb": 14440222
       }
+    },
+    {
+      "query": "path:\"Metody Numeryczne\"",
+      "color": {
+        "a": 1,
+        "rgb": 4055362
+      }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": true,
   "textFadeMultiplier": -1,
   "nodeSizeMultiplier": 0.994662921348315,
@@ -60,6 +67,6 @@
   "repelStrength": 10.9401709401709,
   "linkStrength": 0.846153846153846,
   "linkDistance": 183,
-  "scale": 0.097486098003783,
+  "scale": 0.1166047727796588,
   "close": true
 }

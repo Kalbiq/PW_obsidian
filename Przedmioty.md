@@ -8,3 +8,9 @@
 5. [[Reprezentacja danych]]
 6. [[Technika cyfrowa]]
 7. [[Technika mikroprocesorowa]]
+
+## Semestr 4
+1. [[Metody Numeryczne]]
+2. [[Sieci Komputerowe]]
+3. [[Modelowanie w UML]]
+4. [[Technika pomiarowa]]

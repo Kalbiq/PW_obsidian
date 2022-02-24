@@ -1,5 +1,5 @@
 # Co to jest
-To są moje notatki z 3 semestru studiów na kierunku Informatyka Stosowana na Politechnice Warszawskiej.
+To są moje notatki z 3 i 4 semestru studiów na kierunku Informatyka Stosowana na Politechnice Warszawskiej.
 
 # Jak używać
 
