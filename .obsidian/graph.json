@@ -55,6 +55,13 @@
         "a": 1,
         "rgb": 4055362
       }
+    },
+    {
+      "query": "path:\"Modelowanie w UML\"",
+      "color": {
+        "a": 1,
+        "rgb": 14052293
+      }
     }
   ],
   "collapse-display": true,
@@ -67,6 +74,6 @@
   "repelStrength": 10.9401709401709,
   "linkStrength": 0.846153846153846,
   "linkDistance": 183,
-  "scale": 0.1166047727796588,
+  "scale": 0.09748609800378268,
   "close": true
 }
