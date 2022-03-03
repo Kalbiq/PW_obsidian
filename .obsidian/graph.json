@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:\"Podstawy Komponentów Elektrycznych\"",
@@ -62,6 +62,20 @@
         "a": 1,
         "rgb": 14052293
       }
+    },
+    {
+      "query": "path:\"Sieci komputerowe\"",
+      "color": {
+        "a": 1,
+        "rgb": 7555888
+      }
+    },
+    {
+      "query": "path:\"Technika pomiarowa\"",
+      "color": {
+        "a": 1,
+        "rgb": 3289259
+      }
     }
   ],
   "collapse-display": true,
@@ -69,7 +83,7 @@
   "textFadeMultiplier": -1,
   "nodeSizeMultiplier": 0.994662921348315,
   "lineSizeMultiplier": 1.325,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10.9401709401709,
   "linkStrength": 0.846153846153846,

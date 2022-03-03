@@ -1,6 +1,7 @@
 ## Spis treści
 1. [[Co to jest modelowanie]]
 2. [[Techniki i zasady]]
+3. [[Diagram klas]]
 
 ## Materiały
 ![[Pasted image 20220224142250.png]]
