@@ -2,6 +2,7 @@
 1. [[Co to jest modelowanie]]
 2. [[Techniki i zasady]]
 3. [[Diagram klas]]
+4. [[Modelowanie sekwencyjne]]
 
 ## Materiały
 ![[Pasted image 20220224142250.png]]
