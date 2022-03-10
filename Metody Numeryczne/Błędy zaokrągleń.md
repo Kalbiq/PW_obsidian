@@ -4,7 +4,7 @@ Obliczenia na zaokrąglonych wartościach dają inny wynik niż zaokrąglenie na
 #### Operacje zmiennopozycyjne
 ![[Pasted image 20220224113014.png]]
 
-Pamiętamy o tym że  $\tilde{x} = x(1 + \epsilon)$ co wynika ze wzoru na błąd względny
+Pamiętamy o tym że  $\tilde{x} = x(1 + \varepsilon)$ co wynika ze wzoru na błąd względny
 
 ##### Przykład
 ![[Pasted image 20220224113607.png]]
@@ -25,3 +25,8 @@ Chcemy uniknąć odejmowania ponieważ możliwy jest duży błąd względny
 ![[Pasted image 20220303114552.png]]
 
 W zależności od kolejności działań jest różnica błędów. Lepiej wybrać tu algorytm $y_1$.
+
+##### przykład 3
+![[Pasted image 20220310104431.png]]
+
+Błąd zaokrągleń i błąd danych.

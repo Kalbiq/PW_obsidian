@@ -5,7 +5,7 @@ powiązane: [[Macierz Hilberta]]
 
 ![[Pasted image 20220224113757.png]]
 
-Jak błąd względny $x$ przenosi się na błąd wyniku $\phi$
+Jak błąd względny $x$ przenosi się na błąd wyniku $\varphi$
 
 ![[Pasted image 20220303102356.png]]
 
