@@ -3,6 +3,7 @@
 2. [[Techniki i zasady]]
 3. [[Diagram klas]]
 4. [[Modelowanie sekwencyjne]]
+5. [[Architektura warstwowa]]
 
 ## Materiały
 ![[Pasted image 20220224142250.png]]

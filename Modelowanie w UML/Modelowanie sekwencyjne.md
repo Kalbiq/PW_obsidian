@@ -11,40 +11,11 @@ Obiekt wysyłający komunikat musi wiedzieć obiekcie do którego wysyła. Oznac
 
 ![[Pasted image 20220310143930.png]]
 
-### Cykl życia
-Linia życia określa czas życia obiektu.
-
-Długość wykonywania operacji jest określony przez długość belki na lini życia.
-
-X na lini życia oznacza usunięcie obiektu.
-
-![[Pasted image 20220310143514.png]]
-
-### Komunikaty synchroniczne
-Obiekt wysyła komunikat i czeka na odpowiedź.
-
-Ważne: **grot strzałki jest wypełniony**
-
-![[Pasted image 20220310144258.png]]
-
-Na diagramie synchronicznym musi być ciągłość sterowania, czyli da się przejść strzałka po strzałce i sterowanie zawsze wraca do wysyłającego.
-Jak nie ma komunikatu zwrotnego to wraca odrazu.
-
-![[Pasted image 20220310145757.png]]
-![[Pasted image 20220310150122.png]]
-
-### Komunikaty asynchroniczne
-Obiekt wysyła komunikat i wraca do pracy. Procedura wywołująca nie czeka na odpowiedź.
-
-Zwrot jest oddzielnym komunikatem (jeśli jest).
-
-Ważne: **grot strzałki jest otwarty**
-
-![[Pasted image 20220310144434.png]]
-
-Nastepuje podział sterowania na różne wątki. Może być wykonywane kilka operacji na raz przez różne obiekty.
-
-![[Pasted image 20220310150653.png]]
+### Zagadnienia
+- [[Cykl życia]]
+- [[Nieliniowe przebiegi (Ramki)]]
+- [[Komunikaty synchroniczne]]
+- [[Komunikaty asynchroniczne]]
 
 ### Etykiety komunikatów
 Wywołanie:
@@ -83,3 +54,24 @@ Na podstawie takich diagramów można dość łatwo wywnioskować strukturę kod
 - Inna nazwa komunikatu zwrotnego niż synchronicznego
 - Brak ciągłości sterowania ![[Pasted image 20220310153649.png]]
 - Zwracanie wartości dla komunikatu asynchronicznego ![[Pasted image 20220310153754.png]]
+- Przecięcie się 2 ramek (nie chodzi o zagnieżdżenie)
+- Przecięcie ramki z komunikatem
+- komunikat zwrotny nie zawarty w tej samej ramce co komunikat synchroniczny
+
+### Sekwencja interakcji z użytkownikiem
+Realizowane z pomocą [[Architektura warstwowa|architektury warstwowej]]
+
+![[Pasted image 20220317145349.png]]
+
+### Komunitakty vs. kod
+![[Pasted image 20220317150909.png]]
+
+### Stosowanie komunikacji synchronicznej i asynchronicznej
+![[Pasted image 20220317151727.png]]
+
+### Fragment włączony
+![[Pasted image 20220317154321.png]]
+
+![[Pasted image 20220317154334.png]]
+![[Pasted image 20220317154351.png]]
+

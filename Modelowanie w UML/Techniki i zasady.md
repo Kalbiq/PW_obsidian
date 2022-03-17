@@ -40,3 +40,6 @@ Rozkładamy skomplikowane obiekty na mniejsze części składowe.
 
 ##### Cel modelowania rzeczywistości
 Opisanie skomplikowanego systemu, żeby było go łatwiej zrozumieć.
+
+### Notatki na diagramie
+![[Pasted image 20220317154052.png]]
