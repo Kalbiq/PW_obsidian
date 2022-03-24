@@ -4,6 +4,9 @@
 3. [[Diagram klas]]
 4. [[Modelowanie sekwencyjne]]
 5. [[Architektura warstwowa]]
+6. [[Stany]]
+7. [[Akcje na obiektach]]
+8. [[Przepływ sterowania]]
 
 ## Materiały
 ![[Pasted image 20220224142250.png]]

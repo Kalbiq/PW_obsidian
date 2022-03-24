@@ -3,6 +3,9 @@
 - obiekt zewnętrzny prosi o wyprodukowanie obiektu
 - po produkcji mozna korzystać z funkcji klasy
 
+### Powiązane
+- [[Stany]]
+
 ### Diagram UML
 - ma prostą nazwę
 - zawiera przegródki (np. nazwa, atrybuty, operacje)
